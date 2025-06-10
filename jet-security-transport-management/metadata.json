@@ -1,0 +1,5 @@
+{
+  "name": "JET Security Transport Management",
+  "description": "A web application for managing JET Security officer schedules, prisoner transports, and time off requests. Features include roster management, transport scheduling, archival, and data import/export.",
+  "requestFramePermissions": []
+}
